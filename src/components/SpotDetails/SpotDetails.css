@@ -1,0 +1,47 @@
+div.spot-details-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div.spot-details {
+    max-width: 1068px;
+}
+
+div.images-grid {
+    display: flex;
+}
+
+img.large-image {
+    height: 450px;
+}
+
+div.small-images-container {
+    display: flex;
+}
+
+img.small-images {
+    height: 225px;
+}
+
+div.details {
+    display: flex;
+}
+
+div.box {
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 400px;
+    text-align: center;
+}
+
+span.box-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+div button {
+    background-color: #ff5b60;
+    color: white;
+}
