@@ -9,7 +9,7 @@ const App = () => {
       <Navigation />
       <Switch>
         <Route exact path="/spots/:spotId" component={SpotDetails}/>
-        <Route exact path="/spots" component={Spots}/>
+        <Route exact path="/" component={Spots}/>
       </Switch>
     </>
   );
