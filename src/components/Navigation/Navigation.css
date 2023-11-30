@@ -1,6 +1,10 @@
 nav {
     display: flex;
     justify-content: space-between;
-    border-bottom: 2px solid rgb(214, 214, 214);
+    border-bottom: 2px solid #cccccc;
     padding: 15px;
+}
+
+div#nav-left {
+    color: #ff5b60;
 }
