@@ -1,0 +1,4 @@
+div.spots {
+    display: flex;
+    flex-wrap: wrap;
+}

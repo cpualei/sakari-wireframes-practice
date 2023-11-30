@@ -1,0 +1,58 @@
+{
+    "1": {
+        "city": "Waikiki",
+        "state": "Hawaii",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
+        "price": "123.45",
+        "numStars": "1"
+    },
+    "2": {
+        "city": "Waikiki",
+        "state": "Hawaii",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
+        "price": "123.45",
+        "numStars": "1"
+    },
+    "3": {
+        "city": "Waikiki",
+        "state": "Hawaii",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
+        "price": "123.45",
+        "numStars": "1"
+    },
+    "4": {
+        "city": "Waikiki",
+        "state": "Hawaii",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
+        "price": "123.45",
+        "numStars": "1"
+    },
+    "5": {
+        "city": "Waikiki",
+        "state": "Hawaii",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
+        "price": "123.45",
+        "numStars": "1"
+    },
+    "6": {
+        "city": "Waikiki",
+        "state": "Hawaii",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
+        "price": "123.45",
+        "numStars": "1"
+    },
+    "7": {
+        "city": "Waikiki",
+        "state": "Hawaii",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
+        "price": "123.45",
+        "numStars": "1"
+    },
+    "8": {
+        "city": "Waikiki",
+        "state": "Hawaii",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
+        "price": "123.45",
+        "numStars": "1"
+    }
+}

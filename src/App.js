@@ -1,11 +1,14 @@
-import { Route } from "react-router-dom";
-import Navigation from "./components/Navigation/Navigation";
+import { Route, Switch } from "react-router-dom";
+import Navigation from "./components/Navigation";
+import Spots from "./components/Spots";
 
 const App = () => {
   return (
     <>
       <Navigation />
-      <h1>Hello from App</h1>
+      <Switch>
+        <Route exact path="/spots" component={Spots}/>
+      </Switch>
     </>
   );
 };

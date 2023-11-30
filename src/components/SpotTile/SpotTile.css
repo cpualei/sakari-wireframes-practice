@@ -1,0 +1,12 @@
+div.tile {
+    width: 266px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+}
+
+span.tile-details {
+    display: flex;
+    justify-content: space-between;
+}
