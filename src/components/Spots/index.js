@@ -7,7 +7,7 @@ const Spots = () => {
     return (
         <div className="spots">
             {spots.map((spot, idx) => (
-                <SpotTile spot={spot} key={idx}/>
+                <SpotTile spot={spot} id={idx+1} key={idx+1}/>
             ))}
         </div>
     )
