@@ -5,6 +5,7 @@ nav {
     padding: 15px;
 }
 
-div#nav-left {
+#home-link {
     color: #ff5b60;
+    text-decoration: none;
 }
