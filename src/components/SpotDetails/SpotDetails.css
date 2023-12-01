@@ -5,10 +5,6 @@ div.spot-details-container {
     align-items: center;
 }
 
-div.spot-details {
-    max-width: 985px;
-}
-
 div.spot-details p {
     padding-bottom: 15px;
 }
@@ -18,28 +14,28 @@ div.images-grid {
 }
 
 img.large-image {
-    height: 500px;
-    width: 500px;
+    height: 513px;
+    width: 513px;
     object-fit: cover;
 }
 
 div.small-images-container {
     display: flex;
+    width: 513px;
 }
 
 img.small-images {
-    height: 246px;
-    width: 234px;
+    height: 252.5px;
+    width: 252.5px;
     object-fit: cover;
 }
 
 img.bottom-images {
-    padding: 4px 0 0 0;
+    padding: 8px 0 0 0;
 }
 
 div.image-columns {
     padding: 0 0 0 8px;
-    width: 234px;
 }
 
 div.details {
