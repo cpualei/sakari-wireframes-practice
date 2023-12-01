@@ -1,12 +1,29 @@
 div.tile {
-    width: 266px;
+    width: 294px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    margin: 10px;
+    margin: 15px;
+}
+
+div.tile a {
+    text-decoration: none;
+    color: #222222;
 }
 
 span.tile-details {
     display: flex;
     justify-content: space-between;
+}
+
+span.tile-details p {
+    margin: 0;
+    text-decoration: none;
+}
+
+div.tile img {
+    width: 100%
+}
+
+div.tile p {
+    margin: 0;
 }
