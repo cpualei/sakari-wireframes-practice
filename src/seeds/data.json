@@ -6,10 +6,10 @@
         "country": "United States of America",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
         "price": "123.45",
-        "numStars": "1",
+        "numStars": "5",
         "owner": {
             "firstName": "Cait",
-            "lastName": "Shmate"
+            "lastName": "Bee El"
         },
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
     },
@@ -20,10 +20,10 @@
         "country": "United States of America",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
         "price": "242.24",
-        "numStars": "1",
+        "numStars": "4",
         "owner": {
-            "firstName": "Cait",
-            "lastName": "Shmate"
+            "firstName": "Yake",
+            "lastName": "Shmake"
         },
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
     },
@@ -34,10 +34,10 @@
         "country": "United States of America",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
         "price": "444.44",
-        "numStars": "1",
+        "numStars": "5",
         "owner": {
-            "firstName": "Cait",
-            "lastName": "Shmate"
+            "firstName": "Rihanna",
+            "lastName": "Loreen"
         },
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
     },
@@ -48,10 +48,10 @@
         "country": "United States of America",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
         "price": "222.22",
-        "numStars": "1",
+        "numStars": "4",
         "owner": {
-            "firstName": "Cait",
-            "lastName": "Shmate"
+            "firstName": "Leonardo",
+            "lastName": "Decaprio"
         },
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
     },
@@ -62,10 +62,10 @@
         "country": "United States of America",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
         "price": "111.11",
-        "numStars": "1",
+        "numStars": "4",
         "owner": {
-            "firstName": "Cait",
-            "lastName": "Shmate"
+            "firstName": "Lewis",
+            "lastName": "Capaldi"
         },
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
     },
@@ -76,10 +76,10 @@
         "country": "United States of America",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
         "price": "333.33",
-        "numStars": "1",
+        "numStars": "3",
         "owner": {
-            "firstName": "Cait",
-            "lastName": "Shmate"
+            "firstName": "Majid",
+            "lastName": "Jordan"
         },
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
     },
@@ -92,8 +92,8 @@
         "price": "123.45",
         "numStars": "1",
         "owner": {
-            "firstName": "Cait",
-            "lastName": "Shmate"
+            "firstName": "Talia",
+            "lastName": "Gregario"
         },
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
     },
@@ -104,10 +104,10 @@
         "country": "United States of America",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_A2224HlQ-Zz1Kg6jvT23dv_3czaoDCeobZ0t8UWbOk75jjwPxJ0076wbTaKluGSKxB0&usqp=CAU",
         "price": "555.55",
-        "numStars": "1",
+        "numStars": "5",
         "owner": {
-            "firstName": "Cait",
-            "lastName": "Shmate"
+            "firstName": "Matthew",
+            "lastName": "Pierson"
         },
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
     }
