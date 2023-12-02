@@ -8,11 +8,11 @@ const Spots = () => {
   return (
     <div className="spots-container">
       <div>
-    <div className="spots">
-      {spots.map((spot, idx) => (
-        <SpotTile spot={spot} id={idx + 1} key={idx + 1} />
-      ))}
-    </div>
+        <div className="spots">
+          {spots.map((spot, idx) => (
+            <SpotTile spot={spot} id={idx + 1} key={idx + 1} />
+          ))}
+        </div>
       </div>
     </div>
   );

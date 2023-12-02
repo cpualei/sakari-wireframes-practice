@@ -11,7 +11,17 @@
             "firstName": "Cait",
             "lastName": "Bee El"
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex.",
+        "reviews": [
+            {
+                "review": "What a super cool spot!",
+                "user": "Layla Smith"
+            },
+            {
+                "review": "What a super weird spot!",
+                "user": "Shaniah Twayne"
+            }
+        ]
     },
     "2": {
         "name": "Spot Two",
@@ -25,7 +35,17 @@
             "firstName": "Yake",
             "lastName": "Shmake"
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex.",
+        "reviews": [
+            {
+                "review": "The bathrooms were smelly :(",
+                "user": "Shyla Kracken"
+            },
+            {
+                "review": "Neva eva goin back eva.",
+                "user": "Tony Hall"
+            }
+        ]
     },
     "3": {
         "name": "Spot Three",
@@ -39,7 +59,13 @@
             "firstName": "Rihanna",
             "lastName": "Loreen"
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex.",
+        "reviews": [
+            {
+                "review": "I wanna bring my entire family here next time.",
+                "user": "Jack Jenkins"
+            }
+        ]
     },
     "4": {
         "name": "Spot Four",
@@ -53,7 +79,17 @@
             "firstName": "Leonardo",
             "lastName": "Decaprio"
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex.",
+        "reviews": [
+            {
+                "review": "Sheesh, whoever owns this property is making a killin'.",
+                "user": "Jeffreh Kramer"
+            },
+            {
+                "review": "My dog would love sunbathing on this patio.",
+                "user": "Timmy Wallace"
+            }
+        ]
     },
     "5": {
         "name": "Spot Five",
@@ -67,7 +103,17 @@
             "firstName": "Lewis",
             "lastName": "Capaldi"
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex.",
+        "reviews": [
+            {
+                "review": "This place was a 10/10. Highly recommend",
+                "user": "Shyla Kracken"
+            },
+            {
+                "review": "No miss Shyla, this place was a 54352656/10. You better recognize.",
+                "user": "Beyonce"
+            }
+        ]
     },
     "6": {
         "name": "Spot Six",
@@ -95,7 +141,21 @@
             "firstName": "Talia",
             "lastName": "Gregario"
         },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex.",
+        "reviews": [
+            {
+                "review": "This place is HAUNTED!!!!! Stay away guys!",
+                "user": "Jeffreh Kramer"
+            },
+            {
+                "review": "Jeffreh's just a hater.",
+                "user": "Jacob Kramer"
+            },
+            {
+                "review": "Too many horror films, Jeffreh?",
+                "user": "Elizabeth Jackson"
+            }
+        ]
     },
     "8": {
         "name": "Spot Eight",

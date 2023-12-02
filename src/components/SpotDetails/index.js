@@ -18,30 +18,44 @@ const SpotDetails = () => {
           <div className="small-images-container">
             <div className="image-columns">
               <img className="small-images" src={spot.image} alt="spot-image" />
-              <img className="small-images bottom-images" src={spot.image} alt="spot-image" />
+              <img
+                className="small-images bottom-images"
+                src={spot.image}
+                alt="spot-image"
+              />
             </div>
             <div class="image-columns">
               <img className="small-images" src={spot.image} alt="spot-image" />
-              <img className="small-images bottom-images" src={spot.image} alt="spot-image" />
+              <img
+                className="small-images bottom-images"
+                src={spot.image}
+                alt="spot-image"
+              />
             </div>
           </div>
         </div>
         <div className="details">
           <div className="owner-and-description">
             <span>
-              <h2>Hosted by {spot.owner.firstName} {spot.owner.lastName}</h2>
+              <h2>
+                Hosted by {spot.owner.firstName} {spot.owner.lastName}
+              </h2>
             </span>
             <p>{spot.description}</p>
           </div>
           <div className="box">
             <span className="box-info">
-              <p><b style={{fontSize: "20px"}}>${spot.price}</b> night</p>
+              <p>
+                <b style={{ fontSize: "20px" }}>${spot.price}</b> night
+              </p>
               <p>
                 <i class="fa-solid fa-star"></i>
                 {spot.numStars}
               </p>
             </span>
-            <button onClick={() => window.alert("Feature coming soon...")}>Reserve</button>
+            <button onClick={() => window.alert("Feature coming soon...")}>
+              Reserve
+            </button>
           </div>
         </div>
       </div>
