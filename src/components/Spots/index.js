@@ -1,9 +1,10 @@
 import SpotTile from "../SpotTile";
 import "./Spots.css";
-import data from "../../seeds/data.json";
+import spotsData from "../../seeds/spotsData.json";
 
 const Spots = () => {
-  const spots = Object.values(data);
+  const spots = Object.values(spotsData);
+
   return (
     <div className="spots-container">
       <div>

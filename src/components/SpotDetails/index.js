@@ -1,10 +1,10 @@
 import { useParams } from "react-router-dom";
 import "./SpotDetails.css";
-import data from "../../seeds/data.json";
+import spotsData from "../../seeds/spotsData.json";
 
 const SpotDetails = () => {
   const { spotId } = useParams();
-  const spot = data[spotId];
+  const spot = spotsData[spotId];
 
   return (
     <div className="spot-details-container">

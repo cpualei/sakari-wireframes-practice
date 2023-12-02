@@ -42,6 +42,7 @@ div.details {
     display: flex;
     justify-content: space-between;
     padding-top: 15px;
+    border-bottom: 2px solid black;
 }
 
 div.details div.owner-and-description {
