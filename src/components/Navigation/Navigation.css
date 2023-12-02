@@ -1,6 +1,7 @@
 nav {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     border-bottom: 2px solid #cccccc;
     padding: 15px;
 }
@@ -8,4 +9,31 @@ nav {
 #home-link {
     color: #ff5b60;
     text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+div#nav-right {
+    border: 2px black solid;
+    border-radius: 33px;
+    padding: 7px 13px;
+    cursor: pointer;
+}
+
+i.fa-brands.fa-airbnb {
+    transform: rotate(180deg);
+    font-size: 45px;
+}
+
+#home-link p {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+div#nav-right i {
+    font-size: 25px;
+}
+
+i.fa-solid.fa-circle-user {
+    padding-left: 5px;
 }

@@ -5,9 +5,15 @@ const Navigation = () => {
   return (
     <nav>
       <div id="nav-left">
-        <NavLink id="home-link" to="/">airbnb</NavLink>
+        <NavLink id="home-link" to="/">
+          <i class="fa-brands fa-airbnb"></i>
+          <p>airbnb</p>
+        </NavLink>
       </div>
-      <div id="nav-right">dropdown</div>
+      <div id="nav-right" onClick={() => window.alert("Dropdown menu feature coming soon...")}>
+        <i class="fa-solid fa-bars"></i>
+        <i class="fa-solid fa-circle-user"></i>
+      </div>
     </nav>
   );
 };
