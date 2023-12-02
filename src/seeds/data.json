@@ -52,7 +52,8 @@
         "owner": {
             "firstName": "Cait",
             "lastName": "Shmate"
-        }
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
     },
     "5": {
         "name": "Spot Five",
@@ -65,7 +66,8 @@
         "owner": {
             "firstName": "Cait",
             "lastName": "Shmate"
-        }
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut tellus et mauris rhoncus tincidunt at non urna. Pellentesque ut nisi vel leo vestibulum euismod. Suspendisse potenti. Nullam bibendum mi nec dui tincidunt, nec sagittis odio sagittis. Duis tristique, ex ac malesuada eleifend, augue velit tincidunt justo, in lacinia purus nulla nec dolor. Phasellus euismod, nunc eu imperdiet volutpat, purus justo sollicitudin odio, vitae consectetur libero justo nec tellus. Sed dictum nisl eget arcu laoreet, vel laoreet libero fringilla. Suspendisse efficitur fringilla turpis, ac vehicula sapien. Sed vitae posuere augue. Sed non lacinia risus. Integer dictum bibendum nulla ut accumsan. Duis luctus, est non hendrerit ultricies, urna augue viverra arcu, id volutpat purus sapien vel ex."
     },
     "6": {
         "name": "Spot Six",
