@@ -61,7 +61,7 @@ const SpotDetails = () => {
         </div>
       </div>
       <div>
-        <Reviews reviews={spot.reviews}/>
+        <Reviews numStars={spot.numStars} reviews={spot.reviews}/>
       </div>
     </div>
   );

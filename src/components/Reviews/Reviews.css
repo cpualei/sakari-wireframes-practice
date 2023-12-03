@@ -1,0 +1,13 @@
+div.reviews {
+    width: 1042px;
+}
+
+div.reviews .reviews-header {
+    display: flex;
+    align-items: center;
+    margin: 20px 0
+}
+
+div.reviews-header h2 {
+    margin: 0;
+}
