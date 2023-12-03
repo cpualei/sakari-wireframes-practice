@@ -1,4 +1,5 @@
 import { useParams } from "react-router-dom";
+import Reviews from "../Reviews";
 import "./SpotDetails.css";
 import spotsData from "../../seeds/spotsData.json";
 
@@ -58,6 +59,9 @@ const SpotDetails = () => {
             </button>
           </div>
         </div>
+      </div>
+      <div>
+        <Reviews reviews={spot.reviews}/>
       </div>
     </div>
   );
