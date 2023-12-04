@@ -1,10 +1,10 @@
 
-# A wireframes practice project
+# A random Airbnb wireframes practice project
 
 ## View this project
 
-Clone this project using in your terminal:
-### `git clone`
+Clone this project with this command in your terminal:
+### `git clone https://github.com/cpualei/sakari-wireframes-practice.git`
 
 In the project directory, you can run:
 ### `npm start`
