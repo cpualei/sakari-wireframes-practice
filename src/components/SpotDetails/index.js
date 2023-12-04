@@ -8,6 +8,14 @@ const SpotDetails = () => {
   const { spotId } = useParams();
   const spot = spotsData[spotId];
 
+  const handleNumOfReviews = (reviews) => {
+    if (reviews.length > 1) return `${reviews.length} reviews`;
+    if (reviews.length === 1) return `${reviews.length} review`;
+    if (reviews.length === 0) return `New`;
+  };
+
+  const numOfReviews = handleNumOfReviews(spot.reviews);
+
   return (
     <div className="spot-details-container">
       <div className="spot-details">
@@ -45,10 +53,18 @@ const SpotDetails = () => {
             </span>
             <p>{spot.description}</p>
           </div>
-          <DetailsBox price={spot.price} numStars={spot.numStars} />
+          <DetailsBox
+            price={spot.price}
+            numStars={spot.numStars}
+            numOfReviews={numOfReviews}
+          />
         </div>
       </div>
-      <Reviews numStars={spot.numStars} reviews={spot.reviews} />
+      <Reviews
+        numStars={spot.numStars}
+        reviews={spot.reviews}
+        numOfReviews={numOfReviews}
+      />
     </div>
   );
 };

@@ -67,6 +67,7 @@ span.box-info {
     display: flex;
     justify-content: space-between;
     padding-bottom: 20px;
+    align-items: center;
 }
 
 div.box span.box-info p {

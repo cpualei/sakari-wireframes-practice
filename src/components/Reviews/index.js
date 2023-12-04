@@ -1,21 +1,14 @@
 import Review from "../Review";
 import "./Reviews.css";
 
-const Reviews = ({ numStars, reviews }) => {
-  // let handleReviewsHeader;
-  const handleReviewsHeader = (reviews) => {
-    if (reviews.length > 1) return <h2>{reviews.length} reviews</h2>;
-    if (reviews.length === 1) return <h2>{reviews.length} review</h2>;
-    if (reviews.length === 0) return <h2>New</h2>;
-  };
-
-  const reviewsHeader = handleReviewsHeader(reviews);
-
+const Reviews = ({ numStars, reviews, numOfReviews }) => {
   return (
     <div className="reviews">
       <div className="reviews-header">
-        <i class="fa-solid fa-star"></i> {numStars} &nbsp; · &nbsp;
-        {reviewsHeader}
+        <h2>
+          <i class="fa-solid fa-star"></i> {numStars} &nbsp; · &nbsp;
+          {numOfReviews}
+        </h2>
       </div>
       <div>
         {reviews.map((review, idx) => (

@@ -1,4 +1,6 @@
-const DetailsBox = ({ price, numStars }) => {
+import "../SpotDetails.css";
+
+const DetailsBox = ({ price, numStars, numOfReviews }) => {
   return (
     <div className="box">
       <span className="box-info">
@@ -7,7 +9,7 @@ const DetailsBox = ({ price, numStars }) => {
         </p>
         <p>
           <i class="fa-solid fa-star"></i>
-          {numStars}
+          {numStars} &nbsp; · &nbsp; {numOfReviews}
         </p>
       </span>
       <button onClick={() => window.alert("Feature coming soon...")}>
