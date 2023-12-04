@@ -1,4 +1,5 @@
 import { useParams } from "react-router-dom";
+import DetailsBox from "./DetailsBox";
 import Reviews from "../Reviews";
 import "./SpotDetails.css";
 import spotsData from "../../seeds/spotsData.json";
@@ -44,25 +45,10 @@ const SpotDetails = () => {
             </span>
             <p>{spot.description}</p>
           </div>
-          <div className="box">
-            <span className="box-info">
-              <p>
-                <b style={{ fontSize: "20px" }}>${spot.price}</b> night
-              </p>
-              <p>
-                <i class="fa-solid fa-star"></i>
-                {spot.numStars}
-              </p>
-            </span>
-            <button onClick={() => window.alert("Feature coming soon...")}>
-              Reserve
-            </button>
-          </div>
+          <DetailsBox price={spot.price} numStars={spot.numStars} />
         </div>
       </div>
-      <div>
-        <Reviews numStars={spot.numStars} reviews={spot.reviews}/>
-      </div>
+      <Reviews numStars={spot.numStars} reviews={spot.reviews} />
     </div>
   );
 };
