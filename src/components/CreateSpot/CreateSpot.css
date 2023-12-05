@@ -1,0 +1,74 @@
+div#create-form-container {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    width: 496px;
+    display: flex;
+    flex-direction: column;
+}
+
+form div.form-sections {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid black;
+    padding: 0 0 20px 0;
+    margin: 0 0 20px 0;
+}
+
+form h2 {
+    margin: 0;
+}
+
+form p {
+    margin: 5px 0 16px 0;
+}
+
+form input {
+    background-color: #e8f0fe;
+    border-radius: 3px;
+    border: 2px solid black;
+    padding: 4px;
+    margin: 3px 0 8px 0;
+    font-size: 16px;
+}
+
+form .first-section-last-two-rows {
+    display: flex;
+}
+
+form .first-section-last-two-rows div {
+    height: 60px;
+}
+
+.second-to-last-row div:first-child {
+    flex: 2;
+}
+
+.second-to-last-row div input {
+    width: 92%;
+}
+
+.second-to-last-row div:nth-child(2) {
+    flex: 1;
+}
+
+.last-row div {
+    flex: 1;
+}
+
+.last-row div input {
+    width: 90%;
+}
+
+div.form-sections input#description-textbox {
+    height: 150px;
+    position: relative;
+}
+
+div.form-sections input#description-textbox::placeholder {
+    position: absolute;
+    top: 0;
+    padding: 4px;
+}
