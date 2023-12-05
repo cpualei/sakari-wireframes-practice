@@ -80,4 +80,5 @@ form div#create-spot-button-container {
 form button {
     width: 105px;
     padding: 5px 0px;
+    margin-bottom: 20px;
 }

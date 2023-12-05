@@ -22,6 +22,7 @@ div#nav-right {
 div#nav-right #create-spot-link {
     text-decoration: none;
     margin-right: 18px;
+    color: #11525f;
 }
 
 div#dropdown-menu {
