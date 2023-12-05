@@ -14,6 +14,17 @@ nav {
 }
 
 div#nav-right {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+div#nav-right #create-spot-link {
+    text-decoration: none;
+    margin-right: 18px;
+}
+
+div#dropdown-menu {
     border: 2px black solid;
     border-radius: 33px;
     padding: 7px 13px;
@@ -30,7 +41,7 @@ i.fa-brands.fa-airbnb {
     font-weight: 500;
 }
 
-div#nav-right i {
+div#dropdown-menu i {
     font-size: 25px;
 }
 
