@@ -1,5 +1,6 @@
 
 # A random Airbnb wireframes practice project
+(Front-end only, no existing back-end)
 
 ## Wireframes
 [AirBnB+MVP+Wireframes.pdf](https://github.com/cpualei/sakari-wireframes-practice/files/13552586/AirBnB%2BMVP%2BWireframes.pdf)
