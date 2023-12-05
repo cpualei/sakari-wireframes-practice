@@ -68,8 +68,10 @@ const CreateSpot = () => {
             Competitive pricing can help your listing stand out and rank higher
             in search results.
           </p>
-          $ &nbsp;
-          <input type="text" placeholder="Price per night (USD)" />
+          <span>
+            <b>$</b> &nbsp;
+            <input type="text" placeholder="Price per night (USD)" />
+          </span>
         </div>
         <div className="form-sections">
           <h2>Liven up your spot with photos</h2>

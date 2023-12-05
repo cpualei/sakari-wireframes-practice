@@ -73,6 +73,10 @@ div.form-sections input#description-textbox::placeholder {
     padding: 4px;
 }
 
+div.form-sections span input {
+    width: 93%;
+}
+
 form div#create-spot-button-container {
     text-align: center;
 }
