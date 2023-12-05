@@ -80,7 +80,9 @@ const CreateSpot = () => {
           <input type="text" placeholder="Image URL" />
           <input type="text" placeholder="Image URL" />
         </div>
-        <button type="submit">Create a Spot</button>
+        <div id="create-spot-button-container">
+          <button type="submit">Create a Spot</button>
+        </div>
       </form>
     </div>
   );
