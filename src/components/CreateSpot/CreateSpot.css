@@ -64,6 +64,7 @@ form .first-section-last-two-rows div {
 
 div.form-sections textarea {
     height: 150px;
+    font-family: inherit;
 }
 
 div.form-sections span input {
