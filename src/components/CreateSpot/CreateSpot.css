@@ -25,7 +25,7 @@ form p {
     margin: 5px 0 16px 0;
 }
 
-form input {
+form input, textarea {
     background-color: #e8f0fe;
     border-radius: 3px;
     border: 2px solid black;
@@ -62,15 +62,8 @@ form .first-section-last-two-rows div {
     width: 90%;
 }
 
-div.form-sections input#description-textbox {
+div.form-sections textarea {
     height: 150px;
-    position: relative;
-}
-
-div.form-sections input#description-textbox::placeholder {
-    position: absolute;
-    top: 0;
-    padding: 4px;
 }
 
 div.form-sections span input {

@@ -48,7 +48,7 @@ const CreateSpot = () => {
             Mention the best features of your space, any special amentities like
             fast wif or parking, and what you love about the neighborhood.
           </p>
-          <input
+          <textarea
             id="description-textbox"
             type="text"
             placeholder="Please write at least 30 characters"
